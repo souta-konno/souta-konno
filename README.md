@@ -1,16 +1,15 @@
-## Hi there 👋
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img alt="ステータス" height="150px" src="https://github-readme-stats-chi-swart-55.vercel.app/api/?username=souta-konno&show_icons=true&theme=transparent" />
+  <img alt="言語" height="150px" src="https://github-readme-stats-chi-swart-55.vercel.app/api/top-langs/?username=souta-konno&show_icons=true&theme=transparent&layout=compact&show_icons" />
+  <img alt="トロフィー" src="https://github-profile-trophy.vercel.app/?username=souta-konno&theme=flat&title=Commits,Experience" />
+</div>
 
-<!--
-**souta-konno/souta-konno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Favorite
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,pnpm,vercel,typescript,react,next,astro,vitest,postgres,redis,git" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,coffeescript,vue,nuxt,angular,jest,aws,sentry" />
+</a>
