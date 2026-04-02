@@ -5,10 +5,10 @@
 
 ## Favorite
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,pnpm,vercel,typescript,react,next,astro,vitest,postgres,redis,git" />
+  <img src="https://skillicons.dev/icons?i=apple,typescript,react,next,pnpm,vercel,postgres,docker,astro,vitest,redis,git,aws,sentry" />
 </a>
 
 ## Work
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,coffeescript,vue,nuxt,angular,jest,aws,sentry" />
+    <img src="https://skillicons.dev/icons?i=go,coffeescript,vue,nuxt,angular,jest" />
 </a>
